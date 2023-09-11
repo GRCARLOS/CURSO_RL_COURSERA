@@ -1,0 +1,1 @@
+Notepad de prueba, para comfirmar que solo aparecen los cambios realizados. No se cargan los archivos que quedan intactos.
